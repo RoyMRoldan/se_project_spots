@@ -6,8 +6,9 @@
 * Figma Link 
 * Images from Figma 
 * Project Link
-* Video Pitch Link
-  
+* Video Pitch Link Loom
+* Video Pitch Link Google Docs
+
 **Description**
   
 This project is made so all the elements are displayed correctly on popular screen sizes. Additional techniques include hiding overflow for single and multiple rows of text, as well as hover states.
@@ -25,7 +26,7 @@ Example of hiding overflow for multiple and single rows of text
 ![Screenshot](images/spots-images/NameOverflow.jpg)
 
 **Project Link**
-* [Link to the project on GitHub]()
+* [Link to the project on GitHub](https://github.com/RoyMRoldan/se_project_spots)
 
 **Video Pitch Link**
 * [Link to the project pitch video on loom](https://www.loom.com/share/45c2dcda3eef4b2499cbd1bb1cae6c9a)
