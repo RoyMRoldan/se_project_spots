@@ -1,0 +1,14 @@
+.footer {
+    background-color: #fcf5e5;
+  display: flex;
+  justify-content: center; 
+  padding: 60px 0;        
+  width: 100%;
+
+}
+
+.footer__copyright {
+    width: 105px;
+    height: 16px;
+    margin: 0;
+}
