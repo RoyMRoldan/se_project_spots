@@ -26,7 +26,7 @@ Example of hiding overflow for multiple and single rows of text
 ![Screenshot](images/spots-images/NameOverflow.jpg)
 
 **Project Link**
-* [Link to the project on GitHub](https://github.com/RoyMRoldan/se_project_spots)
+* [Link to the project on GitHub](https://roymroldan.github.io/se_project_spots/)
 
 **Video Pitch Link**
 * [Link to the project pitch video on loom](https://www.loom.com/share/45c2dcda3eef4b2499cbd1bb1cae6c9a)
