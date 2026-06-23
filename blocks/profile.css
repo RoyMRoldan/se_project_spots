@@ -32,6 +32,9 @@
 .profile__description {
     margin: 0;
     color: #212121B2;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 500;
     display: -webkit-box;
     overflow: hidden;
     text-overflow: ellipsis;
